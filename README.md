@@ -1,7 +1,7 @@
-# sisforspace App - Aplikasi Manajemen Ormawa
+# Sisforspace App - Aplikasi Manajemen Ormawa
 
 ## Deskripsi
-Mobile Aaps Sisforspace sebagai Rekap Aktivitas Ormawa dan Insight Dinamika jurusan. Aplikasi ini dibuat untuk memenuhi project akhir Mata Kuliah Mobile Programming berbasis flutter.
+Mobile Apps Sisforspace sebagai Rekap Aktivitas Ormawa dan Insight Dinamika jurusan. Aplikasi ini dibuat untuk memenuhi project akhir Mata Kuliah Mobile Programming berbasis flutter.
 
 ## Fitur
 1. Login Admin
